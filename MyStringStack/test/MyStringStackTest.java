@@ -1,4 +1,5 @@
 import static org.junit.Assert.*;
+// testing CHANGES
 
 import org.junit.After;
 import org.junit.AfterClass;
